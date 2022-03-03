@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Slabo27px',serif;
+    src: url(../font/Slabo27px-Regular.ttf);
+    font-size: 20px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Slabo27px';
+    font-size: 20px;
+}
+.container{
+    
+}
+div{
+    color: white;
+    text-align: center;
+    margin: 25px;
+}
+#div1{
+    float: left;
+    padding: 25px;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+#div2{
+    float: left;
+    padding: 25px;
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+#div3{
+    clear: both;
+    height: 350px;
+    width: 350px;
+    background-color: green;
+    border-radius: 10px;
+}

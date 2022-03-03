@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../img/sample-pattern.png);
+}
+.nav{
+    background-color: white;
+}
+img{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    width: 150px ;
+}
+.textnavbar{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    float: right;
+    display: inline-block;
+}
+
+li{
+    list-style: none;
+    text-decoration: none;
+    margin-right: 20px;
+    margin-top: 10px;
+    float: left;
+
+}
+nav ul li a{
+    text-decoration: none;
+}
+.fiturpost{
+    margin: 20px;
+    color: #003380;
+    text-align: center;
+}
+.kotak{
+    padding: 20px;
+    margin: auto;
+    background-color: white;
+    width: 60%;
+}
+.text p{
+    margin-top: 20px;
+    margin-bottom: 120px;
+}
+.text h3{
+    color: #0066ff;
+    margin-top: 20px;
+}
+footer{
+    font-size: 12px;
+    padding: 15px;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
